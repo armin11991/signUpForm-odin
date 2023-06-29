@@ -16,7 +16,7 @@
 .banner {
     width: 30%;
     height: 80%;
-    background-image: url(/images/bg.jpg);
+    background-image: url(/signUpForm-odin/images/bg.jpg);
     background-size: cover;
     display: flex;
     justify-content: space-around;
